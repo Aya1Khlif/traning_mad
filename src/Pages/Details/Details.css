@@ -1,0 +1,134 @@
+.Ak-Details h1 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 75px;
+    letter-spacing: 0.1px;
+    color: rgba(0, 0, 0, 0.77);
+}
+
+.Ak-Details p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 47px;
+    line-height: 58px;
+    letter-spacing: 0.1px;
+    color: #976E72;
+}
+
+.Ak-bg-img {
+    background-image: url(../../assets/bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    max-height: max-content;
+}
+
+.Ak-bg-img-2 h2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 53px;
+    line-height: 66px;
+    letter-spacing: 0.1px;
+    color: rgba(0, 0, 0, 0.77);
+}
+
+.Ak-bg-img-2 p {
+    /* Rating And Review */
+    font-family: 'Righteous';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 47px;
+    letter-spacing: 0.1px;
+    color: rgba(0, 0, 0, 0.77);
+}
+
+
+.Ak-dec h2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 47px;
+    letter-spacing: 0.1px;
+    color: rgba(0, 0, 0, 0.77);
+}
+
+.Ak-dec p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+
+    line-height: 29px;
+    letter-spacing: 0.1px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.Ak-color h1 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 47px;
+    letter-spacing: 0.1px;
+    color: rgba(0, 0, 0, 0.77);
+}
+
+.number {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 41px;
+    letter-spacing: 0.1px;
+    color: rgba(0, 0, 0, 0.77);
+}
+
+.price {
+    /* Price: */
+    font-family: 'Righteous';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 47px;
+    letter-spacing: 0.1px;
+    /* primary 800 */
+    color: #976E72;
+}
+
+.Ak {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 47px;
+    letter-spacing: 0.1px;
+    color: rgba(0, 0, 0, 0.77); 
+}
+.search-2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    width: 195px;
+    height: 67px;
+    font-size: 33px;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), #976E72;
+    border-radius: 32px;
+    font-family: 'Righteous';
+    color: #FFFFFF;
+}
+
+.search {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    width: 195px;
+    height: 67px;
+    font-size: 33px;
+    color:  #976E72;
+    border-radius: 32px;
+    font-family: 'Righteous';
+    background-color: #FFFFFF;
+}

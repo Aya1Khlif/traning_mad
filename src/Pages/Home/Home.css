@@ -1,0 +1,80 @@
+.Ak-category h2 {
+    text-align: center;
+    font-family: 'Righteous';
+    font-style: normal;
+    font-weight: 400;
+
+    line-height: 86px;
+    letter-spacing: 0.1px;
+    color: #000000;
+}
+
+.Ak-card h2 {
+    font-family: 'Righteous';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 63px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.84);
+}
+
+.Ak-card h3 {
+    /* Starting at $500/Day */
+
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 39px;
+    line-height: 46px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.Ak-span {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 38px;
+    letter-spacing: 0.1px;
+    color: rgba(0, 0, 0, 0.77);
+}
+
+.Ak-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 48px;
+    width: 229px;
+    height: 73px;
+    border: 1px solid #976E72;
+    border-radius: 32px;
+    font-family: 'Righteous';
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.1px;
+    color: #000000;
+    font-size: 33px;
+}
+
+.Ak-search {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 48px;
+    margin: 0 auto;
+    width: 232px;
+    height: 73px;
+    background: #976E72;
+    border-radius: 32px;
+    font-family: 'Righteous';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 41px;
+    letter-spacing: 0.1px;
+    color: rgba(255, 255, 255, 0.86);
+}

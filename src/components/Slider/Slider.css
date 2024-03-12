@@ -1,0 +1,32 @@
+.slick-slide {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.slick-slide>div {
+    margin: 0 15px;
+}
+
+.Slider-container {
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.Ak-slide-bg {
+    /* Rectangle 15 */
+    max-width: 1646px;
+    left: 3px;
+    top: 319px;
+    background: #DFDEDE;
+    box-shadow: -2px 4px 4.5px rgba(0, 0, 0, 0.25);
+    border-radius: 51px;
+}
+@media screen and (min-width : 1000px){
+    .slick-slider {
+        position: absolute;
+        width: 100%;
+        top: -100px;
+    }
+    
+}

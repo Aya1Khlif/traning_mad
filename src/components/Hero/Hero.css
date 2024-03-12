@@ -1,0 +1,89 @@
+.Ak-right-p_1 {
+    font-family: 'Righteous';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 31px;
+    letter-spacing: 0.1px;
+    color: #000000;
+}
+
+.AK-right-hero h2 {
+    max-width: 710px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.1px;
+    color: #000000;
+}
+
+.Ak-right-p {
+    max-width: 730px;
+    font-family: 'Righteous';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.Ak-button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 242px;
+    height: 73px;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), #976E72;
+    border-radius: 1000px;
+    font-family: 'Righteous';
+    color: #FFFFFF;
+}
+
+.AK-information {
+    padding: 48px 76px;
+    max-width: 90%;
+    background: rgba(255, 255, 255, 0.85);
+    box-shadow: inset 0px 0px 25px rgba(0, 0, 0, 0.2);
+    border-radius: 77px;
+    margin: 100px auto 0 auto;
+}
+
+.Ak-Name h3 {
+
+    font-family: 'Righteous';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 41px;
+    letter-spacing: 0.1px;
+    color: rgba(0, 0, 0, 0.84);
+}
+
+.Ak-car {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 34px;
+    letter-spacing: 0.1px;
+    color: rgba(0, 0, 0, 0.31);
+}
+
+.search-button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    width: 195px;
+    height: 67px;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), #976E72;
+    border-radius: 32px;
+    font-family: 'Righteous';
+    color: #FFFFFF;
+}
+.slick-arrow {
+    display: none !important;
+}
